@@ -1,0 +1,14 @@
+{
+  "name": "scalable-e-commerce",
+  "version": "1.0.0",
+  "description": "Scalable Ecommerce platform",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Astha",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
